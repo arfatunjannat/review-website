@@ -1,0 +1,40 @@
+[
+    {
+        "name": "B.C.S",
+        "subject": "All Subject",
+        "coursefee":17000
+        
+        
+      },
+      
+      {
+        "name": "H.C.S",
+        "subject": "All Subject",
+        "coursefee":7000
+        
+        
+      },
+      {
+        "name": "S.S.C",
+        "subject": "All Subject",
+        "coursefee":5000
+        
+        
+      },
+      {
+        "name": "J.S.C",
+        "subject": "English.Bangla,Math",
+        "coursefee":3000
+         
+        
+      },
+       
+      {
+        "name": "P.S.C",
+        "subject": "English.Bangla,Math",
+        "coursefee":2500
+         
+        
+      }
+      
+]

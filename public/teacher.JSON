@@ -1,0 +1,50 @@
+[
+    {
+      "name": "md:Rofikuddin",
+      "gender": "male",
+      "age":43,
+      "subject": "English",
+      "adress": "Dhaka city",
+      "sellary":60000,
+     "picture":  "https://i.ibb.co/sK6F5Bt/young-male-teacher-laptop-standing-260nw-1067010011.jpg"  
+      
+    },
+    
+    {
+        "name": "Rabeya Sultana",
+        "gender": "femal",
+        "age":33,
+        "subject": "English",
+        "adress": "Dhaka city",
+        "sellary":40000,
+        "picture":  "https://i.ibb.co/b7drYyk/download-2.jpg" 
+        
+      },
+      {
+        "name": "Mahamuda Begum",
+        "gender": "female",
+        "age":38,
+        "subject": "Math",
+        "adress": "Rongpur",
+        "sellary":30000,
+        "picture":  "https://i.ibb.co/Jz331fV/download-5.jpg" 
+        
+        
+      },
+      {
+       
+        
+        "name": "shakowat Hossin",
+        "gender": "male",
+        "age":43,
+        "subject": "math",
+        "adress": "Kurigram",
+        "sellary":60000,
+        "picture":  "https://i.ibb.co/mc2S8Bn/A-smiling-young-man-wears-a-tie-as-he-stands-in-the-hallway-of-his-school-building-and-smiles-proudl.jpg"  
+        
+      }
+      
+        
+      
+      
+ ]
